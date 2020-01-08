@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Dojo Sakura, Centro Militar",
+    "style": "Judo",
+    "location": [-34.90237,-56.19243],
+    "address": "Av Libertador 1546 esq Paysandú",
+    "tags": [
+      "Judo"
+    ]
+  },
+  {
+    "name": "Boxing Club Palermo",
+    "style": "Boxeo",
+    "location": [-34.91241, -56.18464],
+    "address": "Gonzalo Ramírez 1409",
+    "tags": [
+      "Boxeo"
+    ]
+  },
+  {
+    "name": "Montevideo Knockout",
+    "style": "Boxeo, Kick Boxing, Muay Thai, Karate",
+    "location": [-34.91843,-56.15874],
+    "address": "Luis de la Torre 581",
+    "tags": [
+      "Boxeo",
+      "Kick Boxing",
+      "Muay Thai",
+      "Karate"
+    ]
+  },
+  {
+    "name": "Gimnasio Escorpion",
+    "style": "Boxeo, Kick Boxing, Karate, Brazilian Jiu Jitsu, Krav Maga",
+    "location": [-34.90158, -56.13950],
+    "address": "Av. Rivera 3462 bis esq. Marco Bruto",
+    "tags": [
+      "Boxeo",
+      "Kick Boxing",
+      "Brazilian Jiu Jitsu",
+      "Karate",
+      "Krav Maga"
+    ]
+  },
+  {
+    "name": "Fight Spirit Dojo",
+    "style": "Muay Thai, Brazilian Jiu Jitsu, Boxeo",
+    "location": [-34.90231, -56.17111],
+    "address": "Av. Rivera 2070 esq Pablo de María",
+    "tags": [
+      "Muay Thai",
+      "Brazilian Jiu Jitsu",
+      "Boxeo"
+    ]
+  },
+  {
+    "name": "Centro Uruguayo de Hapkido",
+    "style": "Hapkido",
+    "location": [-34.88006, -56.14905],
+    "address": "Av. 8 de Octubre 3320 esq. Propios (Salón Iglesia Luterana)",
+    "tags": [
+      "Otros"
+    ]
+  },
+  {
+    "name": "Yamato Dojo - Uruguay Budokan",
+    "style": "Karate, Aikido, Kendo, Iaido, Kyudo",
+    "location": [-34.87347, -56.20390],
+    "address": "Pasaje Claudio García 970, a metros de Uruguayana y 12 de diciembre",
+    "tags": [
+      "Karate",
+      "Aikido",
+      "Kendo",
+      "Otros"
+    ]
+  },
+  {
+    "name": "Escuela de arte marcial chino Tao Chuan",
+    "style": "Sanda, Wu Shu, Kung Fu",
+    "address": "Joanicó 3815 esq Larravide",
+    "location": [-34.87361, -56.14008],
+    "tags": [
+      "Kung Fu"
+    ]
+  },
+  {
+    "name": "Academia Delgado Jiu Jitsu",
+    "style": "Brazilian Jiu Jitsu",
+    "location": [-34.8667977, -56.1658407],
+    "address": "Saladero Farina 3388 esq Jacobo Varela",
+    "tags": [
+      "Brazilian Jiu Jitsu"
+    ]
+  },
+  {
+    "name": "American Box",
+    "style": "Boxeo",
+    "location": [-34.92238, -56.16026],
+    "address": "Solano García 2458 esq. Ellauri",
+    "tags": [
+      "Boxeo"
+    ]
+  },
+  {
+    "name": "Club Hebráica - Macabí",
+    "style": "Judo, Boxeo",
+    "location": [-34.90945, -56.20127],
+    "address": "Camacúa 623",
+    "tags": [
+      "Judo",
+      "Boxeo"
+    ]
+  },
+  {
+    "name": "Gimnasio UFC",
+    "style": "Muay Thai, Kick Boxing, Jiu Jitsu",
+    "location": [-34.87354, -56.17718],
+    "address": "General Flores 2939 esq. Gallinal",
+    "tags": [
+      "Jiu Jitsu",
+      "Muay Thai",
+      "Kick Boxing",
+      "MMA"
+    ]
+  },
+  {
+    "name": "Krav Maga Global",
+    "style": "Krav Maga",
+    "location": [-34.88743, -56.11632],
+    "address": "Av Italia 4334",
+    "tags": [
+      "Krav Maga"
+    ]
+  },
+  {
+    "name": "Krav Maga Global",
+    "style": "Krav Maga",
+    "location": [-34.88743, -56.11632],
+    "address": "Av Italia 4334",
+    "tags": [
+      "Krav Maga"
+    ]
+  },
+  {
+    "name": "Dojo Calavera Crew",
+    "style": "Kick Boxing, Boxeo, Jiu Jitsu, Lucha Grecorromana",
+    "location": [-34.90826, -56.19455],
+    "address": "Julio Herrera y Obes 1243",
+    "tags": [
+      "Kick Boxing",
+      "Boxeo",
+      "Jiu Jitsu",
+      "Lucha Grecorromana"
+    ]
+  },
+  {
+    "name": "BlackStar Montevideo",
+    "style": "Muay Thai, Boxeo, Brazilian Jiu Jitsu",
+    "location": [-34.89574, -56.17000],
+    "address": "Juan Paullier 1759",
+    "tags": [
+      "Muay Thai",
+      "Brazilian Jiu Jitsu",
+      "Boxeo"
+    ]
+  },
+  {
+    "name": "Escuela De Karate Kyokukaikan Honbu Dojo",
+    "style": "Karate",
+    "location": [-34.87460, -56.14189],
+    "address": "Joanico 3725 Esq. Ing, Jose Serrato",
+    "tags": [
+      "Karate"
+    ]
+  },
+  {
+    "name": "Escuela De Karate Kyokukaikan Honbu Dojo",
+    "style": "Karate",
+    "location": [-34.87460, -56.14189],
+    "address": "Joanico 3725 Esq. Ing, Jose Serrato",
+    "tags": [
+      "Karate"
+    ]
+  },
+  {
+    "name": "Instituto Kenshin",
+    "style": "Karate",
+    "location": [-34.90585, -56.17602],
+    "address": "Charrúa 1827",
+    "tags": [
+      "Karate"
+    ]
+  },
+  {
+    "name": "ISKF Uruguay",
+    "style": "Karate",
+    "location": [-34.88563, -56.24854],
+    "address": "Ecuador 1680 esq Grecia",
+    "tags": [
+      "Karate"
+    ]
+  },
+  {
+    "name": "Montevideo Aikido",
+    "style": "Aikido",
+    "location": [-34.90832, -56.16579],
+    "address": "Acevedo Díaz 1084",
+    "tags": [
+      "Aikido"
+    ]
+  },
+  {
+    "name": "Aikido Kaizen Dojo",
+    "style": "Aikido",
+    "location": [-34.91127, -56.17647],
+    "address": "San Salvador 1775 bis",
+    "tags": [
+      "Aikido"
+    ]
+  },
+  {
+    "name": "Dojo Sasurai",
+    "style": "Aikido, Iaido",
+    "location": [-34.88612, -56.18376],
+    "address": "Juan José de Amézaga 1599 esq Jose L. Terra",
+    "tags": [
+      "Aikido",
+      "Kendo"
+    ]
+  }
+]

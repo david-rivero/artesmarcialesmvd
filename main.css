@@ -1,0 +1,26 @@
+#main-map {
+  height: 90vh;
+}
+
+.bolder {
+  font-weight: bold;
+}
+
+.map-options {
+  position: absolute;
+  top: 10vh;
+  right: 2.5vw;
+  z-index: 1000;
+  background-color: white;
+  padding: 1rem;
+}
+
+.map-options h6 {
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+.leaflet-popup-content p {
+  margin: 0;
+  padding: 0;
+}
