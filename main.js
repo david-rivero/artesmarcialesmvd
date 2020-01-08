@@ -4,7 +4,7 @@
     center: [-34.8986, -56.1727],
     zoom: 13
   });
-  const localData = '/data.json';
+  const localData = `${location.href}data.json`;
   let baseData = [];
   let dataLoaded = [];
   let markersLoaded = [];
