@@ -4,12 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="main.css" />
   <title>Artes marciales en Montevideo</title>
 </head>
 <body>
-  <h1>Artes marciales en Montevideo</h1>
+  <h1 class="main-title">Artes marciales en Montevideo</h1>
   <div id="main-map"></div>
   <div class="map-options">
     <h6>Filtros</h6>
@@ -18,28 +19,32 @@
       <label for="box">Boxeo</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Kick Boxing"/>
+      <input type="checkbox" class="check-filter" name="kick" value="Kick Boxing"/>
       <label for="box">Kick Boxing</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Muay Thai"/>
+      <input type="checkbox" class="check-filter" name="muay" value="Muay Thai"/>
       <label for="box">Muay Thai</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Karate"/>
+      <input type="checkbox" class="check-filter" name="karate" value="Karate"/>
       <label for="box">Karate</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Aikido"/>
+      <input type="checkbox" class="check-filter" name="aikido" value="Aikido"/>
       <label for="box">Aikido</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Judo"/>
+      <input type="checkbox" class="check-filter" name="judo" value="Judo"/>
       <label for="box">Judo</label>
     </div>
     <div>
-      <input type="checkbox" class="check-filter" name="box" value="Brazilian Jiu Jitsu"/>
+      <input type="checkbox" class="check-filter" name="bjj" value="Brazilian Jiu Jitsu"/>
       <label for="box">BJJ</label>
+    </div>
+    <div>
+      <input type="checkbox" class="check-filter" name="otros" value="Otros"/>
+      <label for="box">Otros</label>
     </div>
   </div>
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>

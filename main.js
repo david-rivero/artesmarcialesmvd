@@ -2,7 +2,8 @@
   const urlMap = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZHItcml2ZXJvIiwiYSI6ImNrNHB2MmEwZTF4enIzZG1ycjVid2dvY2kifQ.4Pa5VpeHzFg6osCJm9n8jg';
   const baseMap = L.map('main-map', {
     center: [-34.8986, -56.1727],
-    zoom: 13
+    zoom: 13,
+    minZoom: 12
   });
   const localData = `${location.href}data.json`;
   let baseData = [];

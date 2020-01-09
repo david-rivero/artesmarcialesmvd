@@ -227,5 +227,51 @@
       "Aikido",
       "Kendo"
     ]
+  },
+  {
+    "name": "Asociación de Artes Marciales Judokan Uruguay",
+    "style": "Judo",
+    "location": [-34.87738, -56.19315],
+    "address": "Zapicán 2710",
+    "tags": [
+      "Judo"
+    ]
+  },
+  {
+    "name": "MLDT Jiu-Jitsu Montevideo",
+    "style": "Brazilian Jiu Jitsu, MMA",
+    "location": [-34.90932, -56.20868],
+    "address": "Colon 1317 esq Sarandi",
+    "tags": [
+      "Brazilian Jiu Jitsu",
+      "MMA"
+    ]
+  },
+  {
+    "name": "Escuela de Jiu-Jitsu Suzuki",
+    "style": "Brazilian Jiu Jitsu",
+    "location": [-34.90585, -56.18057],
+    "address": "José Enrique Rodo 1653",
+    "tags": [
+      "Brazilian Jiu Jitsu"
+    ]
+  },
+  {
+    "name": "Artem Jiu-Jitsu Uruguay",
+    "style": "Brazilian Jiu Jitsu",
+    "location": [-34.90301, -56.15967],
+    "address": "Avenida Rivera 2579 esq Obligado",
+    "tags": [
+      "Brazilian Jiu Jitsu"
+    ]
+  },
+  {
+    "name": "Asociación Uruguaya de Hapkido",
+    "style": "Hapkido",
+    "location": [-34.90288, -56.16526],
+    "address": "Dr Mario Cassinoni esq Jose Enrique Rodó",
+    "tags": [
+      "Otros"
+    ]
   }
 ]
